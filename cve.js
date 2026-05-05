@@ -13,7 +13,7 @@ process.on("unhandledRejection", errorHandler);
 if (argsris.includes('-h') || argsris.includes('--help')) {
     console.log(`
 \x1b[36m╔══════════════════════════════════════════════════════════════════╗
-║                     SARTA STORM - HTTP/2 FLOOD TOOL                   ║
+║                     Ox Phantom Sec PH - HTTP/2 FLOOD TOOL                   ║
 ╚══════════════════════════════════════════════════════════════════╝\x1b[0m
 
 \x1b[33mUSAGE:\x1b[0m
